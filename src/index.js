@@ -9,6 +9,5 @@ import Foo from "./foo.ts";
 const button = makeButton("Yay! A button!");
 button.style = makeColorStyle("cyan");
 document.body.appendChild(button);
-document.body.appendChild(image);
 document.body.appendChild(footer);
 console.log(nav(), top, bottom, makeButton("hello"), red);
