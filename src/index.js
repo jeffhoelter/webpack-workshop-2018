@@ -4,7 +4,6 @@ import makeButton from "./button";
 import { red, makeColorStyle } from "./button-styles";
 import "./footer.css";
 import "./button.css";
-import image from "./webpack-logo.jpg";
 import Foo from "./foo.ts";
 
 const button = makeButton("Yay! A button!");
